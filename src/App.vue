@@ -13,6 +13,10 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+* {
+font-family: 'Kanit', sans-serif;
+}
 .slide-fade-enter-active {
   transition: all .2s ease;
 }
