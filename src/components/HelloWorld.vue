@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    <vs-button vs-type="dark-filled">Dark</vs-button>
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
