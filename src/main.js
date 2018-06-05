@@ -3,11 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-
-import Vuesax from 'vuesax'
-
-import 'vuesax/dist/vuesax.css' // vuesax styles
-Vue.use(Vuesax)
+import '../node_modules/bulma/css/bulma.min.css'
 
 Vue.config.productionTip = false
 
